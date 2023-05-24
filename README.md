@@ -13,7 +13,7 @@ This Python script fetches and displays the historical prices of several cryptoc
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/your-repo.git
+    git clone https://github.com/JoseAnaya28/cgecko-prices
 
 2. Navigate to the project directory:
     ```bash
@@ -28,7 +28,6 @@ This Python script fetches and displays the historical prices of several cryptoc
 1. Run the script:
     ```bash
     streamlit run main.py
-
 
 2. Open your web browser and access the Streamlit web interface at the provided URL.
 
